@@ -2,12 +2,12 @@ name: Hello World
 on: 
     push:
         branches:
-            - master
+            - main
 jobs:
   hello-world:
     runs-on: ubuntu-latest
     steps:
-      - name: Print Hello World
+      - name: checkout code
         uses: actions/checkout@v4
       - name: Print Hello World
         run: echo "Hello World"
