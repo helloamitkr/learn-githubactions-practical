@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "questions": "What is the capital of India?",
+    "options": [
+      "Mumbai",
+      "Chennai",
+      "New Delhi",
+      "Kolkata"
+    ],
+    "answer": "New Delhi",
+    "points": 10
+  },
+  {
+    "id": 2,
+    "questions": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": "Mars",
+    "points": 10
+  },
+  {
+    "id": 3,
+    "questions": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "answer": "Pacific",
+    "points": 10
+  },
+  {
+    "id": 4,
+    "questions": "Who invented the telephone?",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Isaac Newton"
+    ],
+    "answer": "Alexander Graham Bell",
+    "points": 15
+  },
+  {
+    "id": 5,
+    "questions": "What is the chemical symbol for Gold?",
+    "options": [
+      "Go",
+      "Gd",
+      "Au",
+      "Ag"
+    ],
+    "answer": "Au",
+    "points": 15
+  },
+  {
+    "id": 6,
+    "questions": "How many continents are there in the world?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7",
+    "points": 10
+  },
+  {
+    "id": 7,
+    "questions": "Which gas do plants absorb from the atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Carbon Dioxide",
+    "points": 10
+  },
+  {
+    "id": 8,
+    "questions": "Which is the national animal of India?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Elephant",
+      "Leopard"
+    ],
+    "answer": "Tiger",
+    "points": 10
+  },
+  {
+    "id": 9,
+    "questions": "What is the square root of 144?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "12",
+    "points": 10
+  },
+  {
+    "id": 10,
+    "questions": "Which company owns YouTube?",
+    "options": [
+      "Microsoft",
+      "Meta",
+      "Google",
+      "Amazon"
+    ],
+    "answer": "Google",
+    "points": 15
+  },
+  {
+    "id": 11,
+    "questions": "Which country is famous for the Eiffel Tower?",
+    "options": [
+      "Germany",
+      "Italy",
+      "France",
+      "Spain"
+    ],
+    "answer": "France",
+    "points": 10
+  },
+  {
+    "id": 12,
+    "questions": "Who wrote the Ramayana?",
+    "options": [
+      "Valmiki",
+      "Kalidasa",
+      "Tulsidas",
+      "Ved Vyasa"
+    ],
+    "answer": "Valmiki",
+    "points": 15
+  },
+  {
+    "id": 13,
+    "questions": "What is the boiling point of water at sea level?",
+    "options": [
+      "90°C",
+      "95°C",
+      "100°C",
+      "110°C"
+    ],
+    "answer": "100°C",
+    "points": 10
+  },
+  {
+    "id": 14,
+    "questions": "Which is the fastest land animal?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Leopard",
+      "Cheetah"
+    ],
+    "answer": "Cheetah",
+    "points": 10
+  },
+  {
+    "id": 15,
+    "questions": "Which blood group is known as the universal donor?",
+    "options": [
+      "A+",
+      "B+",
+      "AB+",
+      "O-"
+    ],
+    "answer": "O-",
+    "points": 15
+  },
+  {
+    "id": 16,
+    "questions": "What is the currency of Japan?",
+    "options": [
+      "Won",
+      "Yen",
+      "Peso",
+      "Dollar"
+    ],
+    "answer": "Yen",
+    "points": 10
+  },
+  {
+    "id": 17,
+    "questions": "Which organ pumps blood throughout the human body?",
+    "options": [
+      "Brain",
+      "Liver",
+      "Heart",
+      "Kidney"
+    ],
+    "answer": "Heart",
+    "points": 10
+  },
+  {
+    "id": 18,
+    "questions": "Which is the smallest prime number?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2",
+    "points": 10
+  },
+  {
+    "id": 19,
+    "questions": "What is the national flower of India?",
+    "options": [
+      "Rose",
+      "Lotus",
+      "Lily",
+      "Sunflower"
+    ],
+    "answer": "Lotus",
+    "points": 10
+  },
+  {
+    "id": 20,
+    "questions": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "answer": "Mercury",
+    "points": 10
+  },
+  {
+    "id": 21,
+    "questions": "How many players are there in a cricket team?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11",
+    "points": 10
+  },
+  {
+    "id": 22,
+    "questions": "Which is the longest river in the world?",
+    "options": [
+      "Amazon",
+      "Nile",
+      "Ganga",
+      "Yangtze"
+    ],
+    "answer": "Nile",
+    "points": 15
+  },
+  {
+    "id": 23,
+    "questions": "Which country gifted the Statue of Liberty to the USA?",
+    "options": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "answer": "France",
+    "points": 15
+  },
+  {
+    "id": 24,
+    "questions": "Which is the largest planet in the Solar System?",
+    "options": [
+      "Earth",
+      "Saturn",
+      "Jupiter",
+      "Neptune"
+    ],
+    "answer": "Jupiter",
+    "points": 10
+  },
+  {
+    "id": 25,
+    "questions": "What is 15 × 8?",
+    "options": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "answer": "120",
+    "points": 10
+  },
+  {
+    "id": 26,
+    "questions": "Which bird is known as the King of Birds?",
+    "options": [
+      "Crow",
+      "Sparrow",
+      "Eagle",
+      "Parrot"
+    ],
+    "answer": "Eagle",
+    "points": 10
+  },
+  {
+    "id": 27,
+    "questions": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Power Unit",
+      "Central Program Utility",
+      "Control Processing Unit"
+    ],
+    "answer": "Central Processing Unit",
+    "points": 15
+  },
+  {
+    "id": 28,
+    "questions": "Which company developed Windows?",
+    "options": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "IBM"
+    ],
+    "answer": "Microsoft",
+    "points": 10
+  },
+  {
+    "id": 29,
+    "questions": "What does HTTP stand for?",
+    "options": [
+      "Hyper Text Transfer Protocol",
+      "Hyper Tool Transfer Process",
+      "High Transfer Text Program",
+      "Hyper Text Tool Process"
+    ],
+    "answer": "Hyper Text Transfer Protocol",
+    "points": 15
+  },
+  {
+    "id": 30,
+    "questions": "What is the full form of RAM?",
+    "options": [
+      "Random Access Memory",
+      "Rapid Access Memory",
+      "Read Access Memory",
+      "Random Allocation Memory"
+    ],
+    "answer": "Random Access Memory",
+    "points": 15
+  },
+  {
+    "id": 31,
+    "questions": "Who founded Microsoft?",
+    "options": [
+      "Steve Jobs",
+      "Bill Gates",
+      "Elon Musk",
+      "Mark Zuckerberg"
+    ],
+    "answer": "Bill Gates",
+    "points": 10
+  },
+  {
+    "id": 32,
+    "questions": "What is AI short for?",
+    "options": [
+      "Artificial Intelligence",
+      "Automated Internet",
+      "Artificial Internet",
+      "Auto Intelligence"
+    ],
+    "answer": "Artificial Intelligence",
+    "points": 10
+  },
+  {
+    "id": 33,
+    "questions": "Which key refreshes a web page?",
+    "options": [
+      "F1",
+      "F3",
+      "F5",
+      "F7"
+    ],
+    "answer": "F5",
+    "points": 10
+  },
+  {
+    "id": 34,
+    "questions": "What does URL stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Resource Link",
+      "Uniform Resource Link",
+      "Unique Resource Locator"
+    ],
+    "answer": "Uniform Resource Locator",
+    "points": 15
+  },
+  {
+    "id": 35,
+    "questions": "Who is known as the Father of the Nation in India?",
+    "options": [
+      "Nehru",
+      "Patel",
+      "Mahatma Gandhi",
+      "Ambedkar"
+    ],
+    "answer": "Mahatma Gandhi",
+    "points": 10
+  },
+  {
+    "id": 36,
+    "questions": "Which Indian state is known as God's Own Country?",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Goa",
+      "Karnataka"
+    ],
+    "answer": "Kerala",
+    "points": 10
+  },
+  {
+    "id": 37,
+    "questions": "How many colors are there in a rainbow?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7",
+    "points": 10
+  },
+  {
+    "id": 38,
+    "questions": "What is the capital of Karnataka?",
+    "options": [
+      "Mysuru",
+      "Hubli",
+      "Bengaluru",
+      "Belagavi"
+    ],
+    "answer": "Bengaluru",
+    "points": 10
+  },
+  {
+    "id": 39,
+    "questions": "Which is the tallest mountain in the world?",
+    "options": [
+      "K2",
+      "Everest",
+      "Kanchenjunga",
+      "Makalu"
+    ],
+    "answer": "Everest",
+    "points": 10
+  },
+  {
+    "id": 40,
+    "questions": "Which vitamin is mainly obtained from sunlight?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "id": 41,
+    "questions": "Which is the smallest continent?",
+    "options": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "South America"
+    ],
+    "answer": "Australia",
+    "points": 15
+  },
+  {
+    "id": 42,
+    "questions": "Which festival is known as the Festival of Lights?",
+    "options": [
+      "Holi",
+      "Eid",
+      "Diwali",
+      "Christmas"
+    ],
+    "answer": "Diwali",
+    "points": 10
+  },
+  {
+    "id": 43,
+    "questions": "Which country is called the Land of the Rising Sun?",
+    "options": [
+      "China",
+      "Japan",
+      "Thailand",
+      "South Korea"
+    ],
+    "answer": "Japan",
+    "points": 10
+  },
+  {
+    "id": 44,
+    "questions": "How many hours are there in a day?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "30"
+    ],
+    "answer": "24",
+    "points": 10
+  },
+  {
+    "id": 45,
+    "questions": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "answer": "Canberra",
+    "points": 15
+  },
+  {
+    "id": 46,
+    "questions": "Which metal is liquid at room temperature?",
+    "options": [
+      "Iron",
+      "Silver",
+      "Mercury",
+      "Gold"
+    ],
+    "answer": "Mercury",
+    "points": 15
+  },
+  {
+    "id": 47,
+    "questions": "Which is the largest country by area?",
+    "options": [
+      "USA",
+      "China",
+      "Canada",
+      "Russia"
+    ],
+    "answer": "Russia",
+    "points": 10
+  },
+  {
+    "id": 48,
+    "questions": "Who discovered gravity?",
+    "options": [
+      "Einstein",
+      "Newton",
+      "Galileo",
+      "Edison"
+    ],
+    "answer": "Newton",
+    "points": 10
+  },
+  {
+    "id": 49,
+    "questions": "Which gas is essential for human breathing?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Helium",
+      "Hydrogen"
+    ],
+    "answer": "Oxygen",
+    "points": 10
+  },
+  {
+    "id": 50,
+    "questions": "What is the national bird of India?",
+    "options": [
+      "Eagle",
+      "Peacock",
+      "Parrot",
+      "Sparrow"
+    ],
+    "answer": "Peacock",
+    "points": 10
+  },
+  {
+    "id": 51,
+    "questions": "Which city is known as the Silicon Valley of India?",
+    "options": [
+      "Hyderabad",
+      "Pune",
+      "Chennai",
+      "Bengaluru"
+    ],
+    "answer": "Bengaluru",
+    "points": 15
+  },
+  {
+    "id": 52,
+    "questions": "Which app is mainly used for video conferencing?",
+    "options": [
+      "Zoom",
+      "Paint",
+      "VLC",
+      "Notepad"
+    ],
+    "answer": "Zoom",
+    "points": 10
+  },
+  {
+    "id": 53,
+    "questions": "How many sides does a hexagon have?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6",
+    "points": 10
+  },
+  {
+    "id": 54,
+    "questions": "What is the currency of the United Kingdom?",
+    "options": [
+      "Euro",
+      "Dollar",
+      "Pound Sterling",
+      "Franc"
+    ],
+    "answer": "Pound Sterling",
+    "points": 15
+  },
+  {
+    "id": 55,
+    "questions": "Which is the hardest natural substance?",
+    "options": [
+      "Iron",
+      "Gold",
+      "Diamond",
+      "Silver"
+    ],
+    "answer": "Diamond",
+    "points": 15
+  },
+  {
+    "id": 56,
+    "questions": "What is the largest organ in the human body?",
+    "options": [
+      "Heart",
+      "Brain",
+      "Liver",
+      "Skin"
+    ],
+    "answer": "Skin",
+    "points": 15
+  },
+  {
+    "id": 57,
+    "questions": "Which planet is known for its rings?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Saturn",
+      "Mercury"
+    ],
+    "answer": "Saturn",
+    "points": 10
+  },
+  {
+    "id": 58,
+    "questions": "What is 25% of 200?",
+    "options": [
+      "25",
+      "40",
+      "50",
+      "75"
+    ],
+    "answer": "50",
+    "points": 10
+  },
+  {
+    "id": 59,
+    "questions": "Which language is primarily used for Android development?",
+    "options": [
+      "Java",
+      "Python",
+      "PHP",
+      "Ruby"
+    ],
+    "answer": "Java",
+    "points": 15
+  },
+  {
+    "id": 60,
+    "questions": "Which scientist developed the theory of relativity?",
+    "options": [
+      "Newton",
+      "Galileo",
+      "Einstein",
+      "Tesla"
+    ],
+    "answer": "Einstein",
+    "points": 20
+  }
+]
