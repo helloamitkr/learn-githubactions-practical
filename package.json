@@ -1,0 +1,21 @@
+{
+  "name": "github-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo \"No lint errors\"",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloamitkr/learn-githubactions-practical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloamitkr/learn-githubactions-practical/issues"
+  },
+  "homepage": "https://github.com/helloamitkr/learn-githubactions-practical#readme"
+}
